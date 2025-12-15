@@ -2,42 +2,51 @@
 
 Frontend-heavy **Full Stack Web Developer** with **2+ years of hands-on experience** building scalable, production-ready web applications. I specialize in **React, Next.js, and TypeScript**, with practical backend experience using **Node.js, Express, MongoDB, and REST APIs**.
 
-I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** — from responsive frontend interfaces to secure, API-driven backend integrations. I enjoy translating real-world requirements into maintainable, user-centric web solutions.
+I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** — from responsive frontend interfaces to secure, API-driven backend integrations.
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 💻 Languages
-- 🟦 **TypeScript**
-- 🟨 **JavaScript (ES6+)**
-- ☕ **Java**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 
 ### 🎨 Frontend
-- ⚛️ **React.js**
-- ⏭️ **Next.js**
-- 🧠 **Redux Toolkit**, **Zustand**
-- 🎨 **Tailwind CSS**, **Ant Design**, **Shadcn UI**
-- 🌐 **HTML5**, **CSS3**
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ### 🛠 Backend
-- 🟢 **Node.js**
-- 🚂 **Express.js**
-- 🔐 **REST APIs**, **JWT Authentication**
-- 🍃 **MongoDB**, **Mongoose**
-- 🗄 **MySQL**, **PostgreSQL**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### ⚙️ Tools & Practices
-- 🧩 **Git**, **GitHub**
-- 📬 **Postman**
-- 📋 **JIRA**
-- 🔄 **CircleCI**
-- 📱 Responsive Design
-- ⚡ Performance Optimization
-- 🧱 Component-Driven Development
-- 🤝 Agile / Scrum
-- 🎨 UI/UX Collaboration
-- 🐧 Linux
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 

@@ -1,33 +1,89 @@
-# Hi there! 👋
+# 👋 Hi, I'm Aman Kumar
 
-## I’m Aman Kumar
+Frontend-heavy **Full Stack Web Developer** with **2+ years of hands-on experience** building scalable, production-ready web applications. I specialize in **React, Next.js, and TypeScript**, with practical backend experience using **Node.js, Express, MongoDB, and REST APIs**.
 
-I'm an Associate Software Engineer with a passion for building web applications and user interfaces. My journey in the tech world began with a 6-month internship, and I’m excited to share that I’ve been working full-time since March 20, 2023.
+I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** — from responsive frontend interfaces to secure, API-driven backend integrations. I enjoy translating real-world requirements into maintainable, user-centric web solutions.
 
-### 💼 Experience
-- **Current Role:** Associate Software Engineer
-- **Duration:** Full-time since March 20, 2023 (initially joined as an intern)
+---
 
-### 🛠️ Technologies & Tools
-I specialize in modern web development with a focus on:
-- **Frontend Technologies:** Next.js, React.js
-- **Backend Technologies:** Express.js, Node.js
-- **Database:** MongoDB, MySQL
-- **Languages:** TypeScript, JavaScript, Java, C++ Basics.
-- **Styling:** Ant Design (antd), Tailwind CSS, Styled Components
+## 🧠 Tech Stack
 
-### 🌱 Currently Learning
-- Expanding my knowledge in 'frontend + backend with devops'
+### 💻 Languages
+- 🟦 **TypeScript**
+- 🟨 **JavaScript (ES6+)**
+- ☕ **Java**
 
-<!--
-### 📈 Projects
-Feel free to explore some of my projects and contributions:
-- [Project 1](#) - Brief description
-- [Project 2](#) - Brief description
--->
-### 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aman-kumar-068902186/) - Let's connect and discuss technology!
-<!-- - [Twitter](#) - Follow me for tech updates and insights -->
+### 🎨 Frontend
+- ⚛️ **React.js**
+- ⏭️ **Next.js**
+- 🧠 **Redux Toolkit**, **Zustand**
+- 🎨 **Tailwind CSS**, **Ant Design**, **Shadcn UI**
+- 🌐 **HTML5**, **CSS3**
 
-### 🛠️ Open Source
-I’m also passionate about contributing to open source. If you have a project that could use some help or collaboration, don’t hesitate to reach out!
+### 🛠 Backend
+- 🟢 **Node.js**
+- 🚂 **Express.js**
+- 🔐 **REST APIs**, **JWT Authentication**
+- 🍃 **MongoDB**, **Mongoose**
+- 🗄 **MySQL**, **PostgreSQL**
+
+### ⚙️ Tools & Practices
+- 🧩 **Git**, **GitHub**
+- 📬 **Postman**
+- 📋 **JIRA**
+- 🔄 **CircleCI**
+- 📱 Responsive Design
+- ⚡ Performance Optimization
+- 🧱 Component-Driven Development
+- 🤝 Agile / Scrum
+- 🎨 UI/UX Collaboration
+- 🐧 Linux
+
+---
+
+## 📜 Certifications
+
+- **Frontend Development** — Coding Ninjas  
+  https://drive.google.com/file/d/1jwk5E-7qOTr1NlHohV9NPR5JZvYeyO0O/view
+
+- **React.js** — Coding Ninjas  
+  https://drive.google.com/file/d/1rI-53j48bvIvNzrTPzslhtk0RT_3Ij3z/view
+
+- **Backend Development with Node.js** — Coding Ninjas  
+  https://drive.google.com/file/d/14DdyVl55HgO58zljFBUs6BLT2AMbePC4/view
+
+- **Database Management System (DBMS)**  
+  https://drive.google.com/file/d/1EY6QsRM8kaJAyCTl8pX-x3eyHcc7KIQb/view
+
+- **System Design**  
+  https://drive.google.com/file/d/1U9tkaEwFwu7jrqW0rCKq9MdhhVF0U6lD/view
+
+- **Operating Systems**  
+  https://drive.google.com/file/d/1LAbhN3imdMghoYGh0KRRCzAAuE1zjryO/view
+
+- **Introduction to Java**  
+  https://drive.google.com/file/d/1ixLzmGZQCxUDKtTfdKDLv6pNcORQJh0N/view
+
+- **Data Structures & Algorithms**  
+  https://drive.google.com/file/d/1H4B0T_gXKnoFOeGurerP4hFQPRE0JDW6/view
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Electronics & Telecommunication**  
+Dr. D Y Patil College of Engineering, Pune  
+CGPA: **8.39** (2017 – 2021)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://aman-co.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/aman-kumar-068902186  
+- 💻 GitHub: https://github.com/amankumar89  
+- 📧 Email: amank2070@gmail.com  
+
+---
+
+⭐ Always open to collaborating on interesting frontend or full-stack projects.

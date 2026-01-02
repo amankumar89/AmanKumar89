@@ -89,7 +89,7 @@ CGPA: **8.39** (2017 – 2021)
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://aman-co.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/aman-kumar-068902186  
+- 💼 LinkedIn: https://linkedin.com/in/aman-kumar89
 - 💻 GitHub: https://github.com/amankumar89  
 - 📧 Email: amank2070@gmail.com  
 

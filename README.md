@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Kumar
 
-**Full Stack Web Developer** with **2 years of hands-on experience** building scalable, production-ready web applications. I specialize in **React, Next.js, and TypeScript, Tailwind CSS**, with practical backend experience using **Node.js, Express, MongoDB, and REST APIs**.
+**Full Stack Web Developer** with **2 years of frontend and 1 year of hands-on experience** building scalable, production-ready web applications. I specialize in **React, Next.js, and TypeScript, Tailwind CSS**, with practical backend experience using **Node.js, Express, MongoDB, and REST APIs**.
 I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** from responsive frontend interfaces to secure, API-driven backend integrations. [Visit my portfolio](https://aman-co.vercel.app/)
 
 ---
@@ -50,31 +50,16 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications — Coding Ninjas
 
-- **Frontend Development** — Coding Ninjas  
-  https://drive.google.com/file/d/1jwk5E-7qOTr1NlHohV9NPR5JZvYeyO0O/view
-
-- **React.js** — Coding Ninjas  
-  https://drive.google.com/file/d/1rI-53j48bvIvNzrTPzslhtk0RT_3Ij3z/view
-
-- **Backend Development with Node.js** — Coding Ninjas  
-  https://drive.google.com/file/d/14DdyVl55HgO58zljFBUs6BLT2AMbePC4/view
-
-- **Database Management System (DBMS)**  
-  https://drive.google.com/file/d/1EY6QsRM8kaJAyCTl8pX-x3eyHcc7KIQb/view
-
-- **System Design**  
-  https://drive.google.com/file/d/1U9tkaEwFwu7jrqW0rCKq9MdhhVF0U6lD/view
-
-- **Operating Systems**  
-  https://drive.google.com/file/d/1LAbhN3imdMghoYGh0KRRCzAAuE1zjryO/view
-
-- **Introduction to Java**  
-  https://drive.google.com/file/d/1ixLzmGZQCxUDKtTfdKDLv6pNcORQJh0N/view
-
-- **Data Structures & Algorithms**  
-  https://drive.google.com/file/d/1H4B0T_gXKnoFOeGurerP4hFQPRE0JDW6/view
+- [**Frontend Development**](https://drive.google.com/file/d/1jwk5E-7qOTr1NlHohV9NPR5JZvYeyO0O/view)
+- [**React.js**](https://drive.google.com/file/d/1rI-53j48bvIvNzrTPzslhtk0RT_3Ij3z/view)  
+- [**Backend Development with Node.js**](https://drive.google.com/file/d/14DdyVl55HgO58zljFBUs6BLT2AMbePC4/view)
+- [**Database Management System (DBMS)**](https://drive.google.com/file/d/1EY6QsRM8kaJAyCTl8pX-x3eyHcc7KIQb/view) 
+- [**System Design**](https://drive.google.com/file/d/1U9tkaEwFwu7jrqW0rCKq9MdhhVF0U6lD/view)
+- [**Operating Systems**](https://drive.google.com/file/d/1LAbhN3imdMghoYGh0KRRCzAAuE1zjryO/view)
+- [**Introduction to Java**](https://drive.google.com/file/d/1ixLzmGZQCxUDKtTfdKDLv6pNcORQJh0N/view)
+- [**Data Structures & Algorithms**](https://drive.google.com/file/d/1H4B0T_gXKnoFOeGurerP4hFQPRE0JDW6/view)
 
 ---
 

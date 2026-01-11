@@ -8,6 +8,7 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 ## 🧠 Tech Stack
 
 ### 💻 Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,6 +17,7 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 ---
 
 ### 🎨 Frontend
+
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -29,6 +31,7 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 ---
 
 ### 🛠 Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
@@ -41,6 +44,7 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 ---
 
 ### ⚙️ Tools & Practices
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -53,9 +57,9 @@ I focus on **clean UI architecture, reusable components, performance optimizatio
 ## 📜 Certifications — Coding Ninjas
 
 - [**Frontend Development**](https://drive.google.com/file/d/1jwk5E-7qOTr1NlHohV9NPR5JZvYeyO0O/view)
-- [**React.js**](https://drive.google.com/file/d/1rI-53j48bvIvNzrTPzslhtk0RT_3Ij3z/view)  
+- [**React.js**](https://drive.google.com/file/d/1rI-53j48bvIvNzrTPzslhtk0RT_3Ij3z/view)
 - [**Backend Development with Node.js**](https://drive.google.com/file/d/14DdyVl55HgO58zljFBUs6BLT2AMbePC4/view)
-- [**Database Management System (DBMS)**](https://drive.google.com/file/d/1EY6QsRM8kaJAyCTl8pX-x3eyHcc7KIQb/view) 
+- [**Database Management System (DBMS)**](https://drive.google.com/file/d/1EY6QsRM8kaJAyCTl8pX-x3eyHcc7KIQb/view)
 - [**System Design**](https://drive.google.com/file/d/1U9tkaEwFwu7jrqW0rCKq9MdhhVF0U6lD/view)
 - [**Operating Systems**](https://drive.google.com/file/d/1LAbhN3imdMghoYGh0KRRCzAAuE1zjryO/view)
 - [**Introduction to Java**](https://drive.google.com/file/d/1ixLzmGZQCxUDKtTfdKDLv6pNcORQJh0N/view)
@@ -73,11 +77,13 @@ CGPA: **8.39** (2017 – 2021)
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://aman-co.vercel.app  
+- 🌐 Portfolio: https://aman-co.vercel.app
 - 💼 LinkedIn: https://linkedin.com/in/aman-kumar89
-- 💻 GitHub: https://github.com/amankumar89  
-- 📧 Email: amank2070@gmail.com  
+- 💻 GitHub: https://github.com/amankumar89
+- 📧 Email: amank2070@gmail.com
 
 ---
 
 ⭐ Always open to collaborating on interesting frontend or full-stack projects.
+
+![Snake animation](https://raw.githubusercontent.com/amankumar89/amankumar89/output/github-contribution-grid-snake.svg)

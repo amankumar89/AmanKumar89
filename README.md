@@ -86,4 +86,8 @@ CGPA: **8.39** (2017 – 2021)
 
 ⭐ Always open to collaborating on interesting frontend or full-stack projects.
 
-![Snake animation](raw.githubusercontent.com)
+---
+
+### 📈 Activity
+
+## ![Snake animation](https://raw.githubusercontent.com/username/username/output/snake-dark.svg)

@@ -14,7 +14,7 @@ jobs:
           github_user_name: amankumar89
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4

@@ -88,6 +88,10 @@ CGPA: **8.39** (2017 – 2021)
 
 ---
 
-### 📈 Activity
-
-![Snake animation](https://raw.githubusercontent.com/amankumar89/amankumar89/output/snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/output/snake.svg">
+  </picture>
+</p>

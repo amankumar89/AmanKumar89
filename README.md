@@ -86,4 +86,4 @@ CGPA: **8.39** (2017 – 2021)
 
 ⭐ Always open to collaborating on interesting frontend or full-stack projects.
 
-![Snake animation](https://raw.githubusercontent.com/amankumar89/amankumar89/output/github-contribution-grid-snake.svg)
+![Snake animation](raw.githubusercontent.com)

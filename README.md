@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aman Kumar
 
 **Full Stack Web Developer** with **2 years of frontend and 1 year of hands-on experience** building scalable, production-ready web applications. I specialize in **React, Next.js, and TypeScript, Tailwind CSS**, with practical backend experience using **Node.js, Express, MongoDB, and REST APIs**.
-I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** from responsive frontend interfaces to secure, API-driven backend integrations. [Visit my portfolio](https://aman-co.vercel.app/)
+I focus on **clean UI architecture, reusable components, performance optimization**, and **end-to-end feature development** from responsive frontend interfaces to secure, API-driven backend integrations.
 
 ---
 

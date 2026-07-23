@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Kumar
 
-**Java Full Stack Developer** with **2+ years of experience** building production-grade applications using **React.js, Redux Toolkit, TypeScript, and Tailwind CSS**, and hands-on experience across the **MERN stack** with **PostgreSQL and Drizzle ORM**, including JWT-based authentication, role-based authorization, and RESTful API design. Currently expanding backend expertise into **Core Java, Spring Boot, Spring Security, Spring MVC, and Spring Data JPA**.
+**Java Full Stack Developer** with **2+ years of front-end experience** building production-grade applications using **React.js, Redux Toolkit, TypeScript, and Tailwind CSS**, and hands-on experience across the **MERN stack** with **PostgreSQL and Drizzle ORM**, including JWT-based authentication, role-based authorization, and RESTful API design. Currently expanding backend expertise into **Core Java, Spring Boot, Spring Security, Spring MVC, and Spring Data JPA**.
 
 📍 Mumbai, India · 🟢 Immediate Joiner
 

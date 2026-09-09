@@ -8,6 +8,7 @@
 
 ### 💻 Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -18,7 +19,6 @@
 ### 🎨 Frontend
 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -103,12 +103,11 @@ CGPA: **8.39** (Aug. 2017 – Jul. 2021)
 
 - 🌐 Portfolio: https://aman-co.vercel.app
 - 💼 LinkedIn: https://linkedin.com/in/aman-kumar89
-- 💻 GitHub: https://github.com/amankumar89
 - 📧 Email: amank2070@gmail.com
 
 ---
 
-⭐ Always open to collaborating on interesting frontend or full-stack projects.
+⭐ Always open to collaborating on interesting full-stack projects.
 
 ---
 
